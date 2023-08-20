@@ -1,0 +1,21 @@
+{
+  "name": "fets-response-status-repro",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Miran <miran@248.sh>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "fets": "^0.4.11",
+    "ts-node": "^10.9.1"
+  }
+}
